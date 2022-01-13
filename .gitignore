@@ -1,0 +1,7 @@
+.venv
+data_raw
+**/.ipynb_checkpoints
+tika-app-1.24.1.jar
+__pycache__
+.DS_Store
+tika-app-1.24.1.jar
